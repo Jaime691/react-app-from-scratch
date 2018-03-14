@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import style from './index.css';
 
 const Index = () => {
-  return <div className="title">Hello React!</div>;
+  return <div className={style.title}>Hello React!</div>;
 };
 
 ReactDOM.render(<Index />, document.getElementById('index'));

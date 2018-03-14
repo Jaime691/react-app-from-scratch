@@ -1,8 +1,7 @@
 {
   "name": "react-app-from-scratch",
   "version": "1.0.0",
-  "description":
-    "Tutorial https://medium.com/@pinglinh/part-1-react-app-from-scratch-using-webpack-4-562b1d231e75",
+  "description": "Tutorial https://medium.com/@pinglinh/part-1-react-app-from-scratch-using-webpack-4-562b1d231e75",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
